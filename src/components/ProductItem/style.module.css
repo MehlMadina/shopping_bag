@@ -45,6 +45,7 @@
     width: 30px;
     font-size: 25px;
     color: gray;
+    cursor: pointer;
 }
 
 .price_container {
@@ -80,4 +81,5 @@
     text-transform: uppercase;
     background-color: #576794;
     color: white;
+    cursor: pointer;
 }
