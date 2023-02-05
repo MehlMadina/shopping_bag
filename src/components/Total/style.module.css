@@ -1,0 +1,25 @@
+.total_value {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    background-color: rgba(255, 255, 255, 0.9);
+    width: 100%;
+    padding: 40px;
+    height: 80px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.total_value button {
+    width: 180px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+    color: white;
+    background-color: #20242c;
+    text-transform: uppercase;
+    font-size: 18px;
+}
